@@ -1,0 +1,20 @@
+.blah,
+.odd {
+    background-color: rgb(168,50,109);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif
+}
+
+#two {
+    color: rgb(46, 89, 198);
+    font-size: 36px;
+}
+
+.blah {
+    font-size: 24px;
+}
+
+#four {
+    background: rgb(86, 199, 125);
+    font-size: 24px;
+    font-weight: 750
+}
